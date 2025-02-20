@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/gradle-plugin": "^0.78.0",
     "react": "19.0.0",
     "react-native": "0.78.0",
     "react-native-linear-gradient": "^2.8.3",

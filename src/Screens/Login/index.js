@@ -24,7 +24,7 @@ export default function index() {
         <View style={styles.mailContainer}>
         <TextInput
           style={styles.input}
-          placeholder="Enter your email"
+          placeholder="Enter your emaill"
           placeholderTextColor="#aaa"
           value={email}
           onChangeText={setEmail}
